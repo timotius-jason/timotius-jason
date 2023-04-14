@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timotius-jason&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timotius-jason&hide=jupyter%20notebook&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **timotius-jason/timotius-jason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
